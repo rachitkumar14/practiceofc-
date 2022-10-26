@@ -1,4 +1,4 @@
-# practiceofc-
+
 #include<iostream>
 int main()
 {
